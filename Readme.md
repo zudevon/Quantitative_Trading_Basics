@@ -1,4 +1,3 @@
-# Canidate : DeVon Rasch
 
 ### Explanation for Python Excercises
 ##### Main library used - Pandas (Imported as pd)
@@ -8,16 +7,16 @@
 * 04.py - Fourth Exercise
 * 05.py - Fifth Exercise
 
-Each python script can be ran with python {01.py - 05.py} in terminal once in the "codingExercise_DeVonRasch/pythonExercises" directory
-*EXAMPLE : python 03.py*
+###### Each python script can be ran with python {01.py - 05.py} in terminal once in the "codingExercise_DeVonRasch/pythonExercises" directory
+###### EXAMPLE : python 03.py
 ======
 
 ### Explanation for Bash Exercises 
 * script.sh - First Exercise
 * script02.sh - Second Exercise
 
-Each bash script can be ran with bash {script.sh or script02.sh} in terminal once in the "codingExercise_DeVonRasch/bashExercises" directory
-*EXAMPLE : bash script.py*
+#######Each bash script can be ran with bash {script.sh or script02.sh} in terminal once in the "codingExercise_DeVonRasch/bashExercises" directory
+####### EXAMPLE : bash script.py*
 ======
 
 ### Explanation for SQL exercises
